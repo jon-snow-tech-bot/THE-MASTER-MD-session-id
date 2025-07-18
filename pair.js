@@ -98,7 +98,7 @@ contextInfo: {
 externalAdReply: {
 title: "JON-SNOW",
 thumbnailUrl: "https://files.catbox.moe/7lnycl.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb6VCrF3GJP0LMZVUF08",
+sourceUrl: "https://whatsapp.com/channel/0029VbB2p44KWEKt0C6sx225",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
